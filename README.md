@@ -64,7 +64,7 @@
 ## __Установка на локальном компьютере__
 1. Клонируйте репозиторий:
     ```
-    git clone git@github.com:hqcamp/test-backend-3.git
+    git clone git@github.com:cskovec22/online_courses.git
     ```
 2. Установите и активируйте виртуальное окружение:
     ```
@@ -247,3 +247,8 @@
 * [Django 4.2.10](https://docs.djangoproject.com/en/4.2/)
 * [Django REST Framework  3.14.0](https://www.django-rest-framework.org/)
 * [Djoser  2.2.0](https://djoser.readthedocs.io/en/latest/getting_started.html)
+
+### Автор:  
+*Васин Никита*  
+**email:** *cskovec22@yandex.ru*  
+**telegram:** *@cskovec22*
